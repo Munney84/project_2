@@ -1,10 +1,12 @@
 this is the start of the git experience
 
 the middle 
-
+*lets see if tghis will conflict*
 and the end
 
 I can add after the end!?
 
 yet another edit!
 Lets see how this works.
+
+but this wont??
